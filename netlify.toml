@@ -9,6 +9,6 @@
 
   [[redirects]]
   from = "/resume"
-  to = "https://api.mysearch.com"
+  to = "/ShayanAmaniResume.pdf"
   status = 301
   force = true # COMMENT: ensure that we always redirect
