@@ -1,9 +1,9 @@
 ---
-title: "Automate Checking Vax Appointments"
+title: "Vax Appointments Check Automation in NY"
 date: 2021-04-26T23:54:21-04:00
 draft: false
+author: SHi-ON
 ---
-
 
 ## What?!
 I wrote a [Python script](https://github.com/SHi-ON/VaxCheckNYC) to check available COVID-19 vaccine appointments at vaccination centers in New York.
